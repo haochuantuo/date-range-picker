@@ -1,22 +1,23 @@
 {
   "files": {
-    "main.css": "/date-range-picker/static/css/main.d594f606.chunk.css",
-    "main.js": "/date-range-picker/static/js/main.7e94ab50.chunk.js",
-    "main.js.map": "/date-range-picker/static/js/main.7e94ab50.chunk.js.map",
+    "main.css": "/date-range-picker/static/css/main.e483e06f.chunk.css",
+    "main.js": "/date-range-picker/static/js/main.c9de6536.chunk.js",
+    "main.js.map": "/date-range-picker/static/js/main.c9de6536.chunk.js.map",
     "runtime-main.js": "/date-range-picker/static/js/runtime-main.58a4931f.js",
     "runtime-main.js.map": "/date-range-picker/static/js/runtime-main.58a4931f.js.map",
-    "static/js/2.e000a03f.chunk.js": "/date-range-picker/static/js/2.e000a03f.chunk.js",
-    "static/js/2.e000a03f.chunk.js.map": "/date-range-picker/static/js/2.e000a03f.chunk.js.map",
+    "static/js/2.28caf19a.chunk.js": "/date-range-picker/static/js/2.28caf19a.chunk.js",
+    "static/js/2.28caf19a.chunk.js.map": "/date-range-picker/static/js/2.28caf19a.chunk.js.map",
     "index.html": "/date-range-picker/index.html",
-    "precache-manifest.697dc9f8de73584dbb3d13aeb11da3bb.js": "/date-range-picker/precache-manifest.697dc9f8de73584dbb3d13aeb11da3bb.js",
+    "precache-manifest.203f0d3ffd2a91255b69791884188693.js": "/date-range-picker/precache-manifest.203f0d3ffd2a91255b69791884188693.js",
     "service-worker.js": "/date-range-picker/service-worker.js",
-    "static/css/main.d594f606.chunk.css.map": "/date-range-picker/static/css/main.d594f606.chunk.css.map",
-    "static/js/2.e000a03f.chunk.js.LICENSE.txt": "/date-range-picker/static/js/2.e000a03f.chunk.js.LICENSE.txt"
+    "static/css/main.e483e06f.chunk.css.map": "/date-range-picker/static/css/main.e483e06f.chunk.css.map",
+    "static/js/2.28caf19a.chunk.js.LICENSE.txt": "/date-range-picker/static/js/2.28caf19a.chunk.js.LICENSE.txt",
+    "static/media/calendar-icon5.png": "/date-range-picker/static/media/calendar-icon5.4790a14a.png"
   },
   "entrypoints": [
     "static/js/runtime-main.58a4931f.js",
-    "static/js/2.e000a03f.chunk.js",
-    "static/css/main.d594f606.chunk.css",
-    "static/js/main.7e94ab50.chunk.js"
+    "static/js/2.28caf19a.chunk.js",
+    "static/css/main.e483e06f.chunk.css",
+    "static/js/main.c9de6536.chunk.js"
   ]
 }
