@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/date-range-picker/precache-manifest.e5aa845b5a15f480a4a4ca6045c86767.js"
+  "/date-range-picker/precache-manifest.1bfd9606803fbc1072d8017e1f1251e4.js"
 );
 
 self.addEventListener('message', (event) => {
